@@ -1,0 +1,7 @@
+streamlit
+transformers
+SentencePiece
+tensorflow
+pandas
+numpy
+scikit-learn
